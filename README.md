@@ -1,2 +1,3 @@
 # quartzRedis
 spring quartz redis整合，定是获取redis中的value
+解决redisTemplate注入失败问题，写一个工具类实现ApplicationContextAware
